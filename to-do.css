@@ -4,7 +4,7 @@ body {
     align-items: center;
     height: 100vh;
     font-family: Arial, sans-serif;
-    background: linear-gradient(120deg, #090979, #fdbb2d);
+    background: linear-gradient(120deg, #7ce0d5, #fdbb2d);
 }
 
 .todo-container {
